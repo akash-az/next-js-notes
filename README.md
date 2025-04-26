@@ -27,6 +27,8 @@ export default async function Home() {
 ```
 
 
-## creating apis in nect js
+## creating apis in next js
 
-if w e create any file in app folder with the name route.js it will be treated as an API
+* if we create any file in app folder with the name route.js it will be treated as an API
+** we can accept dynamic values from url variable , body, query param 
+
